@@ -10,5 +10,5 @@ int main()
 		d[i] = d[i - 1] + d[i - 2];
 		d[i] %= 10007;
 	}
-	cout << d[n];
+	cout << d[n]; 
 }
