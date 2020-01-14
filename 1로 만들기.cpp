@@ -18,5 +18,5 @@ int main()
 			d[i] = d[i / 3] + 1;
 		}
 	}
-	cout << d[num];
-}
+	cout << d[num]; 
+} 
