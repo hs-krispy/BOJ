@@ -27,3 +27,4 @@ int main()
     price = min({d[n][1],d[n][2],d[n][3]});
     cout<<price;
 }
+ 
