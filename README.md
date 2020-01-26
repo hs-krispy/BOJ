@@ -1,4 +1,4 @@
-# baekjoon
+# aekjoon
 문제풀이
 
 # 사용언어
