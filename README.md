@@ -2,11 +2,13 @@
 문제풀이
 
 # 사용언어
-C++
+C++, Python
 
 # 문제풀이 사이트
 
 백준 온라인 저지 - [https://www.acmicpc.net/](https://www.acmicpc.net/)
+
+참고(solved.ac - [https://solved.ac/profile/undefined](https://solved.ac/profile/undefined))
 
 # 문제분류방법
 
